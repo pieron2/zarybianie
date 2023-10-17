@@ -1,0 +1,6 @@
+body {font-family: Helvetica, sans-serif;}
+.der {background-color: #00838F; color: white; padding: 5px; font-size: 130%; text-align: center;}
+#le1 {background-color: #EFEFEF; width: 55%; height: 150px;}
+#le2 {background-color: #EFEFEF; width: 55%; height: 300px;}
+#p1 {background-color: #4FB3BF; width: 45%; height: 450px; text-align: center; float: right;} 
+table td {border: solid; border-color: #4FB3BF; border-width: 1px; border-collapse: collapse;}
